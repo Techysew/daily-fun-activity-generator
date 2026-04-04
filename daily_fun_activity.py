@@ -14,7 +14,7 @@ st.set_page_config(
 st.title("🌟 Mood-Lifting Fun Activity Game 🎮")
 st.write("Feeling bored ? Let's find something fun! 😄")
 
-IMAGE_FOLDER = "F:/python fun activity/images"
+IMAGE_FOLDER = "images"
 
 # -------------------------
 # Helper Functions
