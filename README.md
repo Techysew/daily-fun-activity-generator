@@ -1,5 +1,6 @@
 #  Daily Fun Activity Generator
-
+## 🚀 Live App
+👉 https://daily-fun-activity-generator-vbgwnadafozpecdpnor3f3.streamlit.app/
 A simple mood-based activity suggestion web app built using Python and Streamlit.
 
 ## 💡 About The Project
